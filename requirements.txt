@@ -1,0 +1,4 @@
+numpy>=1.26,<3
+requests>=2.31,<3
+sherpa-onnx==1.13.8
+PyAudio>=0.2.14,<0.3
